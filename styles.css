@@ -1,3 +1,7 @@
+* {
+  border: solid 2px red;
+} 
+
 html {
     font-family: 'Acme', sans-serif;
     background-image: url("assets/faded-background.png");
