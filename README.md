@@ -35,6 +35,13 @@ Use the technology we have been working with over the course of the module to de
 - RESTful API
 - GitHub Projects
 - GitHub Issues
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Vercel](https://user-images.githubusercontent.com/101746747/188785090-4abee495-4f46-4dba-b554-e16ded576297.png)
 
 ## Illustrations and Demo
 #### Welcome Page
@@ -70,6 +77,7 @@ Future features could include:
 
 ## Deployed Page
 Visit the published site [here](deployment address goes here)
+
 <img width="440" alt="Screen Shot 2022-09-26 at 1 55 59 PM" src="https://user-images.githubusercontent.com/102887963/192357777-8e23d2a8-5dd3-4380-859e-186e21b9a4a0.png">
 
 ## Set Up
@@ -81,8 +89,8 @@ Visit the published site [here](deployment address goes here)
 
 ## Contributors
  Shauna MacFarlane-Okongo
- - [LinkedIn](https://github.com/DrSLMac)
- - [GitHub](https://github.com/DrSLMac)
+ - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shauna-macfarlane-okongo/)
+- [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrSLMac)
  
 ## Sources
  - [MDN](http://developer.mozilla.org/en-US/)
