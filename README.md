@@ -1,38 +1,98 @@
+#Title of Project
+
+## Table of Contents 📖
+- [Introduction](#introduction)
+- [Learning Goals](#learning-goals)
+- [Technologies and Tools](#technologies-and-tools)
+- [Illustrations & Demo](#illustrations-and-demo)
+- [Project Reflections](#project-reflections)
+- [Roadmap](#roadmap)
+- [Deployed Page](#deployed-page)
+- [Set Up](#set-up)
+- [Contributors](#contributors)
+- [Sources](#sources)
+- [Project Specs](#project-specs)
+
 ## Introduction
- - The purpose of this project was to allow students to practice some of the foundational concepts learned so far within the module. There are other extensions that test different skills that we can build on. The project allowed us to personalize/entertain different ideas with HTML/CSS as well as the functionality(JavaScript) behind the web page created.
+- Brief introduction to purpose of project
 
-## Technologies
- - Javascript
- - HTML
- - CSS
+## Learning Goals
+Use the technology we have been working with over the course of the module to demonstrate mastery of the following:
+- React
+- Router
+- Asynchronous JavaScript
+- End to end testing with Cypress
 
-## Illustrations
- <img >
+## Technologies and Tools
+- Javascript
+- HTML
+- CSS
+- npm
+- Node.js
+- React
+- Router
+- Cypress Testing
+- RESTful API
+- GitHub Projects
+- GitHub Issues
 
-## Features
-- Any of the radio buttons chosen will output a specific item from that array.
-- The Choose Your Own Adventure I chose was the "Entire Meal Functionality". Each button will output random items (side, main dish, dessert) OR one of each for a meal idea for any user clicking the buttons.
+## Illustrations and Demo
+#### Welcome Page
+
+----
+#### Dashboard View
+
+----
+#### Filter Feature
+
+----
+#### Saved Books View
+
+----
+
+## Project Reflections
+#### Wins
+- 
+- 
+- 
+
+#### Challenges
+- 
+- 
+- 
+
+## Roadmap
+Future features could include:
+- 
+- 
+- 
+- 
 
 ## Deployed Page
-Visit the published site [here](https://DrSLMac.github.io/whats-for-dinner/)
-
-## Possible Future Extensions
- - A login page would be super cool, if it were responsive in a sense of allowing users login to be saved/recipe ideas they like to be stored within their page.
- - Adding in transitions via CSS would have appreciated.
+Visit the published site [here](deployment address goes here)
+<img width="440" alt="Screen Shot 2022-09-26 at 1 55 59 PM" src="https://user-images.githubusercontent.com/102887963/192357777-8e23d2a8-5dd3-4380-859e-186e21b9a4a0.png">
 
 ## Set Up
 1. Fork this repo
 2. Clone the repo to your local machine
-3. View the project in the browser by running open index.html in your terminal.
-
-## Sources
- - [MDN](http://developer.mozilla.org/en-US/)
- - [JavaTPoint](https://www.javatpoint.com/how-to-check-a-radio-button-using-javascript)
- - [YouTube](https://www.youtube.com/)
- - [W3Schools](https://www.w3schools.com/)
+3. `cd` into the root of the project directory
+4. Run `npm install`
+5. Run `npm start`
 
 ## Contributors
- - [Shauna MacFarlane-Okongo](https://github.com/DrSLMac)
+ Shauna MacFarlane-Okongo
+ - [LinkedIn](https://github.com/DrSLMac)
+ - [GitHub](https://github.com/DrSLMac)
+ 
+## Sources
+ - [MDN](http://developer.mozilla.org/en-US/)
+ - [YouTube](https://www.youtube.com/)
+ - [W3Schools](https://www.w3schools.com/)
+ - [React JS](https://reactjs.org/)
+ - [Router docs](https://reactrouter.com/)
+ - [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress)
+ - [Medium](https://medium.com/)
+ - [CSS Book Animation](https://devsnap.me/css-book-effects)
 
 ## Project Specs
- - The project spec & rubric can be found [here](https://frontend.turing.edu)
+ - The project spec & rubric can be found [here](link to spec sheet goes here)
